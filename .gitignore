@@ -1,0 +1,5 @@
+/upload
+/bitrix/cache
+/bitrix/managed_cache
+/bitrix/backup
+*.xml
